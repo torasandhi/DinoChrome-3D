@@ -1,0 +1,2 @@
+# DinoChrome-3D
+ A 3D endless runner game made in Unity, inspired by the Chrome Dinosaur game. This project is part of my personal learning journey as a game developer. It features three-lane movement, randomized obstacle patterns, object pooling, and simple runtime logic to simulate an infinite running experience. My goal with this project is to practice core game development concepts like clean architecture, reusability, and scalable spawning systems.
